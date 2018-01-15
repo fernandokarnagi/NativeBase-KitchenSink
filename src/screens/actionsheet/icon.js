@@ -10,6 +10,7 @@ import {
   Right,
   Content,
   ActionSheet,
+  Root,
   Text
 } from "native-base";
 import styles from "./styles";
